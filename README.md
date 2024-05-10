@@ -1,6 +1,9 @@
 # Lab 5 - Starter
 Nicole Go
 
+https://nicole-beatrice-go.github.io/NicoleGo_Lab5_Starter/expose.html
+https://nicole-beatrice-go.github.io/NicoleGo_Lab5_Starter/explore.html
+
 Check Your Understanding:
 1) No, I wouldn't use this for a "message" feature because it is pretty broad and has many features so we are not testing a specific one. Many features include what is in the message and if the message sent. It isn't small enough to do a unit test on and there are components interacting for this message, which isn't possible to be tested in this unit test. There isn't really something to measure and again, there are many factors to measure because of many features.
 
